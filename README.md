@@ -18,3 +18,6 @@ PROGRAMS :
 6. LOCK OBJECT.
 7. SIMPLE PROGRAM USING WRITE STATEMENT.
 8. BDC PROGRAM.
+
+
+![alt text](https://giphy.com/gifs/explore-sap-academy-f5vgu4UgZBJkeZI0rb)
