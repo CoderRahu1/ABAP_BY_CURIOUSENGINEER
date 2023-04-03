@@ -2,8 +2,6 @@
 ## CURIOUS ENGINEER- DEVELOPMENT CODE
 
 
-[LinkedIn](https://www.linkedin.com/in/rahulpillai200010)
-
 
 ![alt text](SAP-ABAP.jpg)
 
@@ -18,3 +16,7 @@ PROGRAMS :
 6. LOCK OBJECT.
 7. SIMPLE PROGRAM USING WRITE STATEMENT.
 8. BDC PROGRAM.
+
+
+Follow me for for programs and tips: 
+[LinkedIn](https://www.linkedin.com/in/rahulpillai200010)
