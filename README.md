@@ -18,8 +18,3 @@ PROGRAMS :
 6. LOCK OBJECT.
 7. SIMPLE PROGRAM USING WRITE STATEMENT.
 8. BDC PROGRAM.
-
-
-![alt text](https://giphy.com/gifs/explore-sap-academy-f5vgu4UgZBJkeZI0rb)
-
-![alt text] (<iframe src="https://giphy.com/embed/f5vgu4UgZBJkeZI0rb" width="480" height="142" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/explore-sap-academy-f5vgu4UgZBJkeZI0rb">via GIPHY</a></p>)
