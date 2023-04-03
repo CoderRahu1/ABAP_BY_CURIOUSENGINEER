@@ -2,7 +2,8 @@
 ## CURIOUS ENGINEER- DEVELOPMENT CODE
 
 
-[title](https://www.linkedin.com/in/rahulpillai200010)
+[LinkedIn](https://www.linkedin.com/in/rahulpillai200010)
+
 PROGRAMS : 
 
 1) INTERACTIVE ALV.
