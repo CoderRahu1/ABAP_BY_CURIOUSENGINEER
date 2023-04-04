@@ -15,6 +15,7 @@ PROGRAMS :
 6. LOCK OBJECT.
 7. SIMPLE PROGRAM USING WRITE STATEMENT.
 8. BDC PROGRAM.
+9. SMARTFORM CALLING PROGRAM.
 
 😎 Follow me for more at : 
 [LinkedIn](https://www.linkedin.com/in/rahulpillai200010)
