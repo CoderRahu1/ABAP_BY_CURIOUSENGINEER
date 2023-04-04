@@ -1,4 +1,6 @@
-REPORT Z_INTERACTIVE_ALV_01 .
+REPORT ZRADIOBUTTON.
+
+************************ RADIO BUTTON WHICH VANISH IF ONE OF THE FIELD IS SELECTED.*******************************
 
 TABLES: vbak.
 
